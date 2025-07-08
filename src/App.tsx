@@ -47,11 +47,7 @@ function App() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link
-                    className="nav-link disabled"
-                    to="/product"
-                    aria-disabled="true"
-                  >
+                  <Link className="nav-link" to="/product">
                     Product
                   </Link>
                 </li>
